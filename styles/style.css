@@ -52,3 +52,44 @@ nav ul li a {
     width: 400px;
     text-align: center;
 }
+
+footer {
+    background-color: gray;
+    width: 100%;
+    height: 190px;
+}
+
+.social_icons {
+    text-align: center;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 17px;
+    margin-top: 115px;
+  }
+  
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+  
+.fa-instagram {
+    background: #f104f9;
+    color: white;
+}
+.fa-youtube {
+    background: red;
+    color: white;
+}
+.fa-linkedin {
+    background: green;
+    color: white;
+}
