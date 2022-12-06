@@ -40,3 +40,15 @@ nav ul li a {
     color: black;
     padding: 5px;
 }
+
+.section_box {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0 0 0;
+}
+
+.text_box {
+    height: 400px;
+    width: 400px;
+    text-align: center;
+}
